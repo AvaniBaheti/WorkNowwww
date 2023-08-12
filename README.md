@@ -1,5 +1,5 @@
 # ReactRedux 
-Work Now List App made using :.\
+Work Now List App made using :
 1. React
 2. Redux
 3. Bootstrap
