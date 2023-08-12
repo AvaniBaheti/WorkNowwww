@@ -1,3 +1,11 @@
+# ReactRedux 
+Work Now List App made using :.\
+1. React
+2. Redux
+3. Bootstrap
+4. Material Ui
+5. JS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
